@@ -1,0 +1,45 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.read1{
+    background-color: aliceblue;
+    margin:30px 100px;
+    padding:20px 10px;
+    border-radius: 10px;
+}
+.read2 {
+    background-color: aliceblue;
+    margin: 30px 100px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+.read3 {
+    background-color: aliceblue;
+    margin: 30px 100px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+.read1 button{
+background-color: teal;
+border-radius: 30px;
+text-decoration: none;
+padding: 10px;
+font-size: medium;
+color:azure;
+}
+.read2 button {
+    background-color: darkgoldenrod;
+    border-radius: 30px;
+    text-decoration: none;
+    padding: 10px;
+    font-size: medium;
+}
+.read3 button {
+    background-color:  darkmagenta;
+    border-radius: 30px;
+    text-decoration: none;
+    padding: 10px;
+    font-size: medium;
+    color:azure;
+}

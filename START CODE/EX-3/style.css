@@ -1,0 +1,15 @@
+/* TODO */
+body button{
+    margin:100px;
+    padding:50px 100px;
+    font-size: 50px;
+    font-weight: bolder;
+    border-radius: 50px;
+    text-transform: uppercase;
+    background-color:pink;
+    border:10px solid palevioletred;
+}
+button:hover{
+    background-color: palevioletred;
+    border: 10px solid pink;
+}
